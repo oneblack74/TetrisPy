@@ -67,8 +67,4 @@ Z = {0:VERT_0, 1:ORANGE_1, 2:LIGHT_BLUE_2, 3:ORANGE_3, 4:VERT_4, 5:BLEU_5, 6:BLE
 VITESSE = [48, 43, 38, 33, 28, 23, 18, 13, 8, 6, 5, 4, 3, 2, 1]
 COULEUR = [J, L, I, T, O, S, Z]
 
-#docu:
-#https://tetris.wiki/Tetris_(NES,_Nintendo)
-#https://levelup.gitconnected.com/writing-tetris-in-python-2a16bddb5318
-
 
